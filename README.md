@@ -1,5 +1,8 @@
 # One-Click Container Sorting (Pure Client) / 一键整理容器 (纯客户端)
 
+> **Disclaimer**: This mod was entirely written by an AI Assistant.
+> **注意**：本模组完全由 AI 助手编写。
+
 A lightweight, pure client-side Minecraft mod for Fabric 1.21.11-pre3 that allows you to organize your inventory and containers with a single click.
 一个轻量级的 Minecraft Fabric 1.21.11-pre3 纯客户端模组，让你可以一键整理背包和容器。
 
@@ -50,8 +53,6 @@ A lightweight, pure client-side Minecraft mod for Fabric 1.21.11-pre3 that allow
   打开任意支持的容器（箱子、木桶、潜影盒）或你的背包（E键）。
 - Click the **"S"** button on the right side of the GUI.
   点击界面右侧的 **"S"** 按钮。
-- Alternatively, press **R** (configurable in Key Bindings) to sort.
-  或者，按 **R** 键（可在按键设置中修改）进行整理。
 
 ## Configuration / 配置
 
