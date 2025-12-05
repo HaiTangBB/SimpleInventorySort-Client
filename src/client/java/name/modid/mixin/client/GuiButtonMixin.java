@@ -61,7 +61,7 @@ public abstract class GuiButtonMixin {
         })
         .pos(x, y)
         .size(20, 20)
-        .tooltip(Tooltip.create(Component.literal("一键整理")))
+        .tooltip(Tooltip.create(Component.translatable("tooltip.sort_inventory")))
         .build();
 
         // Use Accessor to call protected method addRenderableWidget
